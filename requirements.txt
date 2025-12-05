@@ -1,3 +1,7 @@
 streamlit
 aiohttp
+syncio
+re
+json
+time
 beautifulsoup4
